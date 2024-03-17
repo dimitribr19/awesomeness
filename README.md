@@ -1,1 +1,1 @@
-Object Counter improvements (#8648)
+Compress docs images (#8124)
