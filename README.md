@@ -1,1 +1,1 @@
-Optimize TFJS export on ARM64 (#8946)
+Python refactorings and simplifications (#7549)
