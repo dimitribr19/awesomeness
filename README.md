@@ -1,1 +1,1 @@
-Faster batch same_shapes (#8851)
+Both Link Opening Options - Have both the Open in Background option and the Open in New Tab option available alongside each other
